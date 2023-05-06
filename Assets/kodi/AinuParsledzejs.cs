@@ -2,15 +2,19 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class AinuParsledzejs : MonoBehaviour {
+using UnityEngine.SceneManagement;
 
-	// Use this for initialization
-	void Start () {
-		
-	}
+public class AinuParsledzejs : MonoBehaviour {
 	
-	// Update is called once per frame
-	void Update () {
-		
+	public void UzSakumu() {
+		SceneManager.LoadScene("Pats Sākums", LoadSceneMode.Single);
+	}
+
+	public void UzUI() {
+		SceneManager.LoadScene(1, LoadSceneMode.Single);
+	}
+
+	public void Apturet() {
+		Application.Quit();
 	}
 }
