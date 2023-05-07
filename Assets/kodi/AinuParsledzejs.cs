@@ -5,13 +5,13 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 
 public class AinuParsledzejs : MonoBehaviour {
-	
+
 	public void UzSakumu() {
 		SceneManager.LoadScene("Pats Sākums", LoadSceneMode.Single);
 	}
 
 	public void UzUI() {
-		SceneManager.LoadScene(1, LoadSceneMode.Single);
+		SceneManager.LoadScene("Sākums", LoadSceneMode.Single);
 	}
 
 	public void Apturet() {
