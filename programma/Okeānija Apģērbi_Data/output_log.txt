@@ -19,7 +19,7 @@ Platform assembly: C:\Users\user\Documents\UnityDarbi\Galina_UnityOkeanija\progr
 Loading C:\Users\user\Documents\UnityDarbi\Galina_UnityOkeanija\programma\Okeānija Apģērbi_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
 Platform assembly: C:\Users\user\Documents\UnityDarbi\Galina_UnityOkeanija\programma\Okeānija Apģērbi_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
 Loading C:\Users\user\Documents\UnityDarbi\Galina_UnityOkeanija\programma\Okeānija Apģērbi_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
-- Completed reload, in  0.756 seconds
+- Completed reload, in  1.157 seconds
 Platform assembly: C:\Users\user\Documents\UnityDarbi\Galina_UnityOkeanija\programma\Okeānija Apģērbi_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\user\Documents\UnityDarbi\Galina_UnityOkeanija\programma\Okeānija Apģērbi_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
@@ -27,22 +27,22 @@ desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 10.206300 ms
+UnloadTime: 18.108700 ms
 The referenced script on this Behaviour (Game Object 'SkriptuTuretajs') is missing!
  
 (Filename:  Line: 1755)
 
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 7.506500 ms
+UnloadTime: 7.271800 ms
 
 Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 612.
-Total: 0.670900 ms (FindLiveObjects: 0.056300 ms CreateObjectMapping: 0.037800 ms MarkObjects: 0.560400 ms  DeleteObjects: 0.015300 ms)
+Total: 1.540500 ms (FindLiveObjects: 0.338400 ms CreateObjectMapping: 0.036100 ms MarkObjects: 1.142500 ms  DeleteObjects: 0.022400 ms)
 
 Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 4.077200 ms
+UnloadTime: 10.704600 ms
 
-Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 277.
-Total: 2.231300 ms (FindLiveObjects: 0.048700 ms CreateObjectMapping: 0.050700 ms MarkObjects: 0.498900 ms  DeleteObjects: 1.631600 ms)
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 276.
+Total: 2.196600 ms (FindLiveObjects: 0.043800 ms CreateObjectMapping: 0.041900 ms MarkObjects: 0.517200 ms  DeleteObjects: 1.592000 ms)
 
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: 1380 -> priority: 1 
+  Thread -> id: 1b00 -> priority: 1 
