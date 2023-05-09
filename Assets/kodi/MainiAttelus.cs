@@ -11,6 +11,11 @@ public class MainiAttelus : MonoBehaviour {
 	 public GameObject mainigaisAttelsD;
 	 public GameObject mainigaisAttelsE;
 
+	 public GameObject mainigaisAttelsN;
+	 public GameObject mainigaisAttelsO;
+	 public GameObject mainigaisAttelsR;
+
+
 
 	 public Sprite[] atteluMasivs;
 	 public GameObject slaideris;
@@ -49,14 +54,32 @@ public class MainiAttelus : MonoBehaviour {
 	 }
 
 	 public void mainitLielumu() {
+		float pasreizejaVertiba2 = slaideris2.GetComponent<Slider>().value;
 		float pasreizejaVertiba = slaideris.GetComponent<Slider>().value;
-		mainigaisAttels.transform.localScale = new Vector3(1F*pasreizejaVertiba, 1, 1);
+		mainigaisAttels.transform.localScale = new Vector3(1F*pasreizejaVertiba, pasreizejaVertiba2, 1);
+		mainigaisAttelsA.transform.localScale = new Vector3(1F*pasreizejaVertiba, pasreizejaVertiba2, 1);
+		mainigaisAttelsB.transform.localScale = new Vector3(1F*pasreizejaVertiba, pasreizejaVertiba2, 1);
+		mainigaisAttelsC.transform.localScale = new Vector3(1F*pasreizejaVertiba, pasreizejaVertiba2, 1);
+		mainigaisAttelsD.transform.localScale = new Vector3(1F*pasreizejaVertiba, pasreizejaVertiba2, 1);
+		mainigaisAttelsE.transform.localScale = new Vector3(1F*pasreizejaVertiba, pasreizejaVertiba2, 1);
+		mainigaisAttelsN.transform.localScale = new Vector3(1F*pasreizejaVertiba, pasreizejaVertiba2, 1);
+		mainigaisAttelsO.transform.localScale = new Vector3(1F*pasreizejaVertiba, pasreizejaVertiba2, 1);
+		mainigaisAttelsR.transform.localScale = new Vector3(1F*pasreizejaVertiba, pasreizejaVertiba2, 1);
 
 	 }
 
 	 public void mainitPlatumu() {
+		float pasreizejaVertiba2 = slaideris.GetComponent<Slider>().value;
 		float pasreizejaVertiba = slaideris2.GetComponent<Slider>().value;
-		mainigaisAttels.transform.localScale = new Vector3(1, 1F*pasreizejaVertiba, 1);
+		mainigaisAttels.transform.localScale = new Vector3(pasreizejaVertiba2, 1F*pasreizejaVertiba, 1);
+		mainigaisAttelsA.transform.localScale = new Vector3(pasreizejaVertiba2, 1F*pasreizejaVertiba, 1);
+		mainigaisAttelsB.transform.localScale = new Vector3(pasreizejaVertiba2, 1F*pasreizejaVertiba, 1);
+		mainigaisAttelsC.transform.localScale = new Vector3(pasreizejaVertiba2, 1F*pasreizejaVertiba, 1);
+		mainigaisAttelsD.transform.localScale = new Vector3(pasreizejaVertiba2, 1F*pasreizejaVertiba, 1);
+		mainigaisAttelsE.transform.localScale = new Vector3(pasreizejaVertiba2, 1F*pasreizejaVertiba, 1);
+		mainigaisAttelsN.transform.localScale = new Vector3(pasreizejaVertiba2, 1F*pasreizejaVertiba, 1);
+		mainigaisAttelsO.transform.localScale = new Vector3(pasreizejaVertiba2, 1F*pasreizejaVertiba, 1);
+		mainigaisAttelsR.transform.localScale = new Vector3(pasreizejaVertiba2, 1F*pasreizejaVertiba, 1);
 
 	 }
 }
