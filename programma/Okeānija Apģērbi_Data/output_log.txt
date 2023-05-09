@@ -1,0 +1,48 @@
+Initialize engine version: 5.5.6f1 (3fb31a95adee)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 520 (ID=0x1921)
+    Vendor:   Intel
+    VRAM:     1007 MB
+    Driver:   31.0.101.2111
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\user\Documents\UnityDarbi\Galina_UnityOkeanija\programma\Okeānija Apģērbi_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\user\Documents\UnityDarbi\Galina_UnityOkeanija\programma\Okeānija Apģērbi_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\user\Documents\UnityDarbi\Galina_UnityOkeanija\programma\Okeānija Apģērbi_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\user\Documents\UnityDarbi\Galina_UnityOkeanija\programma\Okeānija Apģērbi_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\user\Documents\UnityDarbi\Galina_UnityOkeanija\programma\Okeānija Apģērbi_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\user\Documents\UnityDarbi\Galina_UnityOkeanija\programma\Okeānija Apģērbi_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\user\Documents\UnityDarbi\Galina_UnityOkeanija\programma\Okeānija Apģērbi_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\user\Documents\UnityDarbi\Galina_UnityOkeanija\programma\Okeānija Apģērbi_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\user\Documents\UnityDarbi\Galina_UnityOkeanija\programma\Okeānija Apģērbi_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\user\Documents\UnityDarbi\Galina_UnityOkeanija\programma\Okeānija Apģērbi_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\user\Documents\UnityDarbi\Galina_UnityOkeanija\programma\Okeānija Apģērbi_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\user\Documents\UnityDarbi\Galina_UnityOkeanija\programma\Okeānija Apģērbi_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.756 seconds
+Platform assembly: C:\Users\user\Documents\UnityDarbi\Galina_UnityOkeanija\programma\Okeānija Apģērbi_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\user\Documents\UnityDarbi\Galina_UnityOkeanija\programma\Okeānija Apģērbi_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 10.206300 ms
+The referenced script on this Behaviour (Game Object 'SkriptuTuretajs') is missing!
+ 
+(Filename:  Line: 1755)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.506500 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 612.
+Total: 0.670900 ms (FindLiveObjects: 0.056300 ms CreateObjectMapping: 0.037800 ms MarkObjects: 0.560400 ms  DeleteObjects: 0.015300 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.077200 ms
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 277.
+Total: 2.231300 ms (FindLiveObjects: 0.048700 ms CreateObjectMapping: 0.050700 ms MarkObjects: 0.498900 ms  DeleteObjects: 1.631600 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1380 -> priority: 1 
